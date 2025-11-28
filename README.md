@@ -29,9 +29,3 @@ If OpenAI is not available, you can use:
 - SentenceTransformer for embeddings (already included)  
 - Local LLMs via ollama or text-generation-webui  
 
-## Contents
-- `RAG_Notebook.ipynb` – main project notebook  
-- `data/` – folder for your PDF/DOCX files  
-- `chroma_db/` – vector store directory (auto-created)
-
-Feel free to modify and extend the pipeline.
